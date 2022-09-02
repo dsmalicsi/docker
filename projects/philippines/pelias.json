@@ -49,23 +49,9 @@
         "filename": "philippines-latest.osm.pbf"
       }]
     },
-    "openaddresses": {
-      "datapath": "/data/openaddresses",
-      "files": [
-        "ph/countrywide.csv"
-      ]
-    },
     "polyline": {
       "datapath": "/data/polylines",
       "files": [ "extract.0sv" ]
-    },
-    "whosonfirst": {
-      "datapath": "/data/whosonfirst",
-      "importPostalcodes": true,
-      "countryCode": "PH",
-      "importPlace": [
-        "85632509"
-      ]
     }
   }
 }
