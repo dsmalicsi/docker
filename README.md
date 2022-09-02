@@ -85,14 +85,14 @@ set -x
 # cd /path/to/install
 
 # clone this repository
-git clone https://github.com/pelias/docker.git && cd docker
+git clone https://github.com/dsmalicsi/docker.git && cd docker
 
 # install pelias script
 # this is the _only_ setup command that should require `sudo`
 sudo ln -s "$(pwd)/pelias" /usr/local/bin/pelias
 
 # cd into the project directory
-cd projects/portland-metro
+cd projects/philippines
 
 # create a directory to store Pelias data files
 # see: https://github.com/pelias/docker#variable-data_dir
