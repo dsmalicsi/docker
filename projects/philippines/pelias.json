@@ -55,7 +55,7 @@
     },
     "whosonfirst": {
       "datapath": "/data/whosonfirst",
-      "importPostalcodes": true,
+      "importPostalcodes": false,
       "countryCode": "PH",
       "importPlace": [
 
